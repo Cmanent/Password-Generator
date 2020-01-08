@@ -46,3 +46,4 @@ function copyPassword(){
     alert("Password Copied to Clipbaord!");
 
 }
+generate 
