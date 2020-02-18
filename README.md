@@ -21,6 +21,9 @@ EXECUTION OF TASK
 The Password Generator I have created will randomly generate a password made up of letters, numbers and symbols; uppcase or lowercase. The user will be able to generate an infinite number of passwords, as well as manipulate the length of each password they wish to generate. Each generated password will be saved on the page and the user has the option to copy the password to their clipboard. 
 
 
+![Screenshot (7)](https://user-images.githubusercontent.com/57699329/74699091-fdae9500-51bc-11ea-88a3-d63cf19d9260.png)
+
+
 GITHUB URL 
 
  https://cmanent.github.io/Password-Generator/
@@ -28,6 +31,4 @@ GITHUB URL
 
 
 
-
-*THE SCREENSHOT WILL NOT LOAD ONTO THE README FOR SOME REASON.  
 
